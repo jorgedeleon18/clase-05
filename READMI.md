@@ -10,4 +10,7 @@ git init
 git status
 ```
 ## Areas del repositorio del git
+ kjsdknf
+ lkmsalmd
+ ññññ
  
