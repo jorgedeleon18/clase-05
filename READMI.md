@@ -17,3 +17,7 @@ git status
  ## corregir el mensaje del commit
  ```sh
  git commit  --amend -m "el mensaje corregido"
+```
+ ```sh
+ git log #version larga
+git log --oneline #version corta
