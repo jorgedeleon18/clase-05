@@ -13,4 +13,7 @@ git status
  kjsdknf
  lkmsalmd
  ññññ
- 
+
+ ## corregir el mensaje del commit
+ ```sh
+ git commit  --amend -m "el mensaje corregido"
